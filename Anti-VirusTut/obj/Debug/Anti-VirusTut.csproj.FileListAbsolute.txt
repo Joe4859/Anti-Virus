@@ -1,0 +1,10 @@
+C:\Users\Joe\source\repos\Anti-VirusTut\Anti-VirusTut\bin\Debug\Anti-VirusTut.exe.config
+C:\Users\Joe\source\repos\Anti-VirusTut\Anti-VirusTut\bin\Debug\Anti-VirusTut.exe
+C:\Users\Joe\source\repos\Anti-VirusTut\Anti-VirusTut\bin\Debug\Anti-VirusTut.pdb
+C:\Users\Joe\source\repos\Anti-VirusTut\Anti-VirusTut\obj\Debug\Anti-VirusTut.csprojAssemblyReference.cache
+C:\Users\Joe\source\repos\Anti-VirusTut\Anti-VirusTut\obj\Debug\Anti_VirusTut.Form1.resources
+C:\Users\Joe\source\repos\Anti-VirusTut\Anti-VirusTut\obj\Debug\Anti_VirusTut.Properties.Resources.resources
+C:\Users\Joe\source\repos\Anti-VirusTut\Anti-VirusTut\obj\Debug\Anti-VirusTut.csproj.GenerateResource.cache
+C:\Users\Joe\source\repos\Anti-VirusTut\Anti-VirusTut\obj\Debug\Anti-VirusTut.csproj.CoreCompileInputs.cache
+C:\Users\Joe\source\repos\Anti-VirusTut\Anti-VirusTut\obj\Debug\Anti-VirusTut.exe
+C:\Users\Joe\source\repos\Anti-VirusTut\Anti-VirusTut\obj\Debug\Anti-VirusTut.pdb
