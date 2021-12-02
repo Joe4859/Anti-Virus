@@ -1,0 +1,7 @@
+C:\Users\Joe\source\repos\HoundAV\HoundAV\bin\Debug\HoundAV.exe.config
+C:\Users\Joe\source\repos\HoundAV\HoundAV\bin\Debug\HoundAV.exe
+C:\Users\Joe\source\repos\HoundAV\HoundAV\bin\Debug\HoundAV.pdb
+C:\Users\Joe\source\repos\HoundAV\HoundAV\obj\Debug\HoundAV.csprojAssemblyReference.cache
+C:\Users\Joe\source\repos\HoundAV\HoundAV\obj\Debug\HoundAV.csproj.CoreCompileInputs.cache
+C:\Users\Joe\source\repos\HoundAV\HoundAV\obj\Debug\HoundAV.exe
+C:\Users\Joe\source\repos\HoundAV\HoundAV\obj\Debug\HoundAV.pdb
